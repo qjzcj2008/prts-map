@@ -1,0 +1,10 @@
+{
+  "name": "明日方舟 - PRTS.Map",
+  "short_name": "map.ARK-NIGHTS.com",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEE",
+  "theme_color": "#0CC3E7",
+  "icons": []
+}
